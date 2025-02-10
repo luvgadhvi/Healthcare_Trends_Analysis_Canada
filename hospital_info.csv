@@ -1,0 +1,501 @@
+Hospital Name,Province,City
+Ontario General Hospital,Ontario,Toronto
+Quebec General Hospital,Quebec,Quebec City
+British Columbia General Hospital,British Columbia,Vancouver
+Alberta General Hospital,Alberta,Edmonton
+Nova Scotia General Hospital,Nova Scotia,Halifax
+Saskatchewan General Hospital,Saskatchewan,Regina
+Manitoba General Hospital,Manitoba,Winnipeg
+Toronto General Hospital,Ontario,Toronto
+Ottawa General Hospital,Ontario,Ottawa
+Mississauga General Hospital,Ontario,Mississauga
+Montreal General Hospital,Quebec,Montreal
+Quebec City General Hospital,Quebec,Quebec City
+Laval General Hospital,Quebec,Laval
+Vancouver General Hospital,British Columbia,Vancouver
+Victoria General Hospital,British Columbia,Victoria
+Surrey General Hospital,British Columbia,Surrey
+Calgary General Hospital,Alberta,Calgary
+Edmonton General Hospital,Alberta,Edmonton
+Red Deer General Hospital,Alberta,Red Deer
+Halifax General Hospital,Nova Scotia,Halifax
+Sydney General Hospital,Nova Scotia,Sydney
+Saskatoon General Hospital,Saskatchewan,Saskatoon
+Regina General Hospital,Saskatchewan,Regina
+Winnipeg General Hospital,Manitoba,Winnipeg
+Brandon General Hospital,Manitoba,Brandon
+Toronto Healthcare Center 1,Ontario,Toronto
+Ottawa Healthcare Center 2,Ontario,Ottawa
+Mississauga Healthcare Center 3,Ontario,Mississauga
+Montreal Healthcare Center 4,Quebec,Montreal
+Quebec City Healthcare Center 5,Quebec,Quebec City
+Laval Healthcare Center 6,Quebec,Laval
+Vancouver Healthcare Center 7,British Columbia,Vancouver
+Victoria Healthcare Center 8,British Columbia,Victoria
+Surrey Healthcare Center 9,British Columbia,Surrey
+Calgary Healthcare Center 10,Alberta,Calgary
+Edmonton Healthcare Center 11,Alberta,Edmonton
+Red Deer Healthcare Center 12,Alberta,Red Deer
+Halifax Healthcare Center 13,Nova Scotia,Halifax
+Sydney Healthcare Center 14,Nova Scotia,Sydney
+Saskatoon Healthcare Center 15,Saskatchewan,Saskatoon
+Regina Healthcare Center 16,Saskatchewan,Regina
+Winnipeg Healthcare Center 17,Manitoba,Winnipeg
+Brandon Healthcare Center 18,Manitoba,Brandon
+Toronto Healthcare Center 19,Ontario,Toronto
+Ottawa Healthcare Center 20,Ontario,Ottawa
+Mississauga Healthcare Center 21,Ontario,Mississauga
+Montreal Healthcare Center 22,Quebec,Montreal
+Quebec City Healthcare Center 23,Quebec,Quebec City
+Laval Healthcare Center 24,Quebec,Laval
+Vancouver Healthcare Center 25,British Columbia,Vancouver
+Victoria Healthcare Center 26,British Columbia,Victoria
+Surrey Healthcare Center 27,British Columbia,Surrey
+Calgary Healthcare Center 28,Alberta,Calgary
+Edmonton Healthcare Center 29,Alberta,Edmonton
+Red Deer Healthcare Center 30,Alberta,Red Deer
+Halifax Healthcare Center 31,Nova Scotia,Halifax
+Sydney Healthcare Center 32,Nova Scotia,Sydney
+Saskatoon Healthcare Center 33,Saskatchewan,Saskatoon
+Regina Healthcare Center 34,Saskatchewan,Regina
+Winnipeg Healthcare Center 35,Manitoba,Winnipeg
+Brandon Healthcare Center 36,Manitoba,Brandon
+Toronto Healthcare Center 37,Ontario,Toronto
+Ottawa Healthcare Center 38,Ontario,Ottawa
+Mississauga Healthcare Center 39,Ontario,Mississauga
+Montreal Healthcare Center 40,Quebec,Montreal
+Quebec City Healthcare Center 41,Quebec,Quebec City
+Laval Healthcare Center 42,Quebec,Laval
+Vancouver Healthcare Center 43,British Columbia,Vancouver
+Victoria Healthcare Center 44,British Columbia,Victoria
+Surrey Healthcare Center 45,British Columbia,Surrey
+Calgary Healthcare Center 46,Alberta,Calgary
+Edmonton Healthcare Center 47,Alberta,Edmonton
+Red Deer Healthcare Center 48,Alberta,Red Deer
+Halifax Healthcare Center 49,Nova Scotia,Halifax
+Sydney Healthcare Center 50,Nova Scotia,Sydney
+Saskatoon Healthcare Center 51,Saskatchewan,Saskatoon
+Regina Healthcare Center 52,Saskatchewan,Regina
+Winnipeg Healthcare Center 53,Manitoba,Winnipeg
+Brandon Healthcare Center 54,Manitoba,Brandon
+Toronto Healthcare Center 55,Ontario,Toronto
+Ottawa Healthcare Center 56,Ontario,Ottawa
+Mississauga Healthcare Center 57,Ontario,Mississauga
+Montreal Healthcare Center 58,Quebec,Montreal
+Quebec City Healthcare Center 59,Quebec,Quebec City
+Laval Healthcare Center 60,Quebec,Laval
+Vancouver Healthcare Center 61,British Columbia,Vancouver
+Victoria Healthcare Center 62,British Columbia,Victoria
+Surrey Healthcare Center 63,British Columbia,Surrey
+Calgary Healthcare Center 64,Alberta,Calgary
+Edmonton Healthcare Center 65,Alberta,Edmonton
+Red Deer Healthcare Center 66,Alberta,Red Deer
+Halifax Healthcare Center 67,Nova Scotia,Halifax
+Sydney Healthcare Center 68,Nova Scotia,Sydney
+Saskatoon Healthcare Center 69,Saskatchewan,Saskatoon
+Regina Healthcare Center 70,Saskatchewan,Regina
+Winnipeg Healthcare Center 71,Manitoba,Winnipeg
+Brandon Healthcare Center 72,Manitoba,Brandon
+Toronto Healthcare Center 73,Ontario,Toronto
+Ottawa Healthcare Center 74,Ontario,Ottawa
+Mississauga Healthcare Center 75,Ontario,Mississauga
+Montreal Healthcare Center 76,Quebec,Montreal
+Quebec City Healthcare Center 77,Quebec,Quebec City
+Laval Healthcare Center 78,Quebec,Laval
+Vancouver Healthcare Center 79,British Columbia,Vancouver
+Victoria Healthcare Center 80,British Columbia,Victoria
+Surrey Healthcare Center 81,British Columbia,Surrey
+Calgary Healthcare Center 82,Alberta,Calgary
+Edmonton Healthcare Center 83,Alberta,Edmonton
+Red Deer Healthcare Center 84,Alberta,Red Deer
+Halifax Healthcare Center 85,Nova Scotia,Halifax
+Sydney Healthcare Center 86,Nova Scotia,Sydney
+Saskatoon Healthcare Center 87,Saskatchewan,Saskatoon
+Regina Healthcare Center 88,Saskatchewan,Regina
+Winnipeg Healthcare Center 89,Manitoba,Winnipeg
+Brandon Healthcare Center 90,Manitoba,Brandon
+Toronto Healthcare Center 91,Ontario,Toronto
+Ottawa Healthcare Center 92,Ontario,Ottawa
+Mississauga Healthcare Center 93,Ontario,Mississauga
+Montreal Healthcare Center 94,Quebec,Montreal
+Quebec City Healthcare Center 95,Quebec,Quebec City
+Laval Healthcare Center 96,Quebec,Laval
+Vancouver Healthcare Center 97,British Columbia,Vancouver
+Victoria Healthcare Center 98,British Columbia,Victoria
+Surrey Healthcare Center 99,British Columbia,Surrey
+Calgary Healthcare Center 100,Alberta,Calgary
+Edmonton Healthcare Center 101,Alberta,Edmonton
+Red Deer Healthcare Center 102,Alberta,Red Deer
+Halifax Healthcare Center 103,Nova Scotia,Halifax
+Sydney Healthcare Center 104,Nova Scotia,Sydney
+Saskatoon Healthcare Center 105,Saskatchewan,Saskatoon
+Regina Healthcare Center 106,Saskatchewan,Regina
+Winnipeg Healthcare Center 107,Manitoba,Winnipeg
+Brandon Healthcare Center 108,Manitoba,Brandon
+Toronto Healthcare Center 109,Ontario,Toronto
+Ottawa Healthcare Center 110,Ontario,Ottawa
+Mississauga Healthcare Center 111,Ontario,Mississauga
+Montreal Healthcare Center 112,Quebec,Montreal
+Quebec City Healthcare Center 113,Quebec,Quebec City
+Laval Healthcare Center 114,Quebec,Laval
+Vancouver Healthcare Center 115,British Columbia,Vancouver
+Victoria Healthcare Center 116,British Columbia,Victoria
+Surrey Healthcare Center 117,British Columbia,Surrey
+Calgary Healthcare Center 118,Alberta,Calgary
+Edmonton Healthcare Center 119,Alberta,Edmonton
+Red Deer Healthcare Center 120,Alberta,Red Deer
+Halifax Healthcare Center 121,Nova Scotia,Halifax
+Sydney Healthcare Center 122,Nova Scotia,Sydney
+Saskatoon Healthcare Center 123,Saskatchewan,Saskatoon
+Regina Healthcare Center 124,Saskatchewan,Regina
+Winnipeg Healthcare Center 125,Manitoba,Winnipeg
+Brandon Healthcare Center 126,Manitoba,Brandon
+Toronto Healthcare Center 127,Ontario,Toronto
+Ottawa Healthcare Center 128,Ontario,Ottawa
+Mississauga Healthcare Center 129,Ontario,Mississauga
+Montreal Healthcare Center 130,Quebec,Montreal
+Quebec City Healthcare Center 131,Quebec,Quebec City
+Laval Healthcare Center 132,Quebec,Laval
+Vancouver Healthcare Center 133,British Columbia,Vancouver
+Victoria Healthcare Center 134,British Columbia,Victoria
+Surrey Healthcare Center 135,British Columbia,Surrey
+Calgary Healthcare Center 136,Alberta,Calgary
+Edmonton Healthcare Center 137,Alberta,Edmonton
+Red Deer Healthcare Center 138,Alberta,Red Deer
+Halifax Healthcare Center 139,Nova Scotia,Halifax
+Sydney Healthcare Center 140,Nova Scotia,Sydney
+Saskatoon Healthcare Center 141,Saskatchewan,Saskatoon
+Regina Healthcare Center 142,Saskatchewan,Regina
+Winnipeg Healthcare Center 143,Manitoba,Winnipeg
+Brandon Healthcare Center 144,Manitoba,Brandon
+Toronto Healthcare Center 145,Ontario,Toronto
+Ottawa Healthcare Center 146,Ontario,Ottawa
+Mississauga Healthcare Center 147,Ontario,Mississauga
+Montreal Healthcare Center 148,Quebec,Montreal
+Quebec City Healthcare Center 149,Quebec,Quebec City
+Laval Healthcare Center 150,Quebec,Laval
+Vancouver Healthcare Center 151,British Columbia,Vancouver
+Victoria Healthcare Center 152,British Columbia,Victoria
+Surrey Healthcare Center 153,British Columbia,Surrey
+Calgary Healthcare Center 154,Alberta,Calgary
+Edmonton Healthcare Center 155,Alberta,Edmonton
+Red Deer Healthcare Center 156,Alberta,Red Deer
+Halifax Healthcare Center 157,Nova Scotia,Halifax
+Sydney Healthcare Center 158,Nova Scotia,Sydney
+Saskatoon Healthcare Center 159,Saskatchewan,Saskatoon
+Regina Healthcare Center 160,Saskatchewan,Regina
+Winnipeg Healthcare Center 161,Manitoba,Winnipeg
+Brandon Healthcare Center 162,Manitoba,Brandon
+Toronto Healthcare Center 163,Ontario,Toronto
+Ottawa Healthcare Center 164,Ontario,Ottawa
+Mississauga Healthcare Center 165,Ontario,Mississauga
+Montreal Healthcare Center 166,Quebec,Montreal
+Quebec City Healthcare Center 167,Quebec,Quebec City
+Laval Healthcare Center 168,Quebec,Laval
+Vancouver Healthcare Center 169,British Columbia,Vancouver
+Victoria Healthcare Center 170,British Columbia,Victoria
+Surrey Healthcare Center 171,British Columbia,Surrey
+Calgary Healthcare Center 172,Alberta,Calgary
+Edmonton Healthcare Center 173,Alberta,Edmonton
+Red Deer Healthcare Center 174,Alberta,Red Deer
+Halifax Healthcare Center 175,Nova Scotia,Halifax
+Sydney Healthcare Center 176,Nova Scotia,Sydney
+Saskatoon Healthcare Center 177,Saskatchewan,Saskatoon
+Regina Healthcare Center 178,Saskatchewan,Regina
+Winnipeg Healthcare Center 179,Manitoba,Winnipeg
+Brandon Healthcare Center 180,Manitoba,Brandon
+Toronto Healthcare Center 181,Ontario,Toronto
+Ottawa Healthcare Center 182,Ontario,Ottawa
+Mississauga Healthcare Center 183,Ontario,Mississauga
+Montreal Healthcare Center 184,Quebec,Montreal
+Quebec City Healthcare Center 185,Quebec,Quebec City
+Laval Healthcare Center 186,Quebec,Laval
+Vancouver Healthcare Center 187,British Columbia,Vancouver
+Victoria Healthcare Center 188,British Columbia,Victoria
+Surrey Healthcare Center 189,British Columbia,Surrey
+Calgary Healthcare Center 190,Alberta,Calgary
+Edmonton Healthcare Center 191,Alberta,Edmonton
+Red Deer Healthcare Center 192,Alberta,Red Deer
+Halifax Healthcare Center 193,Nova Scotia,Halifax
+Sydney Healthcare Center 194,Nova Scotia,Sydney
+Saskatoon Healthcare Center 195,Saskatchewan,Saskatoon
+Regina Healthcare Center 196,Saskatchewan,Regina
+Winnipeg Healthcare Center 197,Manitoba,Winnipeg
+Brandon Healthcare Center 198,Manitoba,Brandon
+Toronto Healthcare Center 199,Ontario,Toronto
+Ottawa Healthcare Center 200,Ontario,Ottawa
+Mississauga Healthcare Center 201,Ontario,Mississauga
+Montreal Healthcare Center 202,Quebec,Montreal
+Quebec City Healthcare Center 203,Quebec,Quebec City
+Laval Healthcare Center 204,Quebec,Laval
+Vancouver Healthcare Center 205,British Columbia,Vancouver
+Victoria Healthcare Center 206,British Columbia,Victoria
+Surrey Healthcare Center 207,British Columbia,Surrey
+Calgary Healthcare Center 208,Alberta,Calgary
+Edmonton Healthcare Center 209,Alberta,Edmonton
+Red Deer Healthcare Center 210,Alberta,Red Deer
+Halifax Healthcare Center 211,Nova Scotia,Halifax
+Sydney Healthcare Center 212,Nova Scotia,Sydney
+Saskatoon Healthcare Center 213,Saskatchewan,Saskatoon
+Regina Healthcare Center 214,Saskatchewan,Regina
+Winnipeg Healthcare Center 215,Manitoba,Winnipeg
+Brandon Healthcare Center 216,Manitoba,Brandon
+Toronto Healthcare Center 217,Ontario,Toronto
+Ottawa Healthcare Center 218,Ontario,Ottawa
+Mississauga Healthcare Center 219,Ontario,Mississauga
+Montreal Healthcare Center 220,Quebec,Montreal
+Quebec City Healthcare Center 221,Quebec,Quebec City
+Laval Healthcare Center 222,Quebec,Laval
+Vancouver Healthcare Center 223,British Columbia,Vancouver
+Victoria Healthcare Center 224,British Columbia,Victoria
+Surrey Healthcare Center 225,British Columbia,Surrey
+Calgary Healthcare Center 226,Alberta,Calgary
+Edmonton Healthcare Center 227,Alberta,Edmonton
+Red Deer Healthcare Center 228,Alberta,Red Deer
+Halifax Healthcare Center 229,Nova Scotia,Halifax
+Sydney Healthcare Center 230,Nova Scotia,Sydney
+Saskatoon Healthcare Center 231,Saskatchewan,Saskatoon
+Regina Healthcare Center 232,Saskatchewan,Regina
+Winnipeg Healthcare Center 233,Manitoba,Winnipeg
+Brandon Healthcare Center 234,Manitoba,Brandon
+Toronto Healthcare Center 235,Ontario,Toronto
+Ottawa Healthcare Center 236,Ontario,Ottawa
+Mississauga Healthcare Center 237,Ontario,Mississauga
+Montreal Healthcare Center 238,Quebec,Montreal
+Quebec City Healthcare Center 239,Quebec,Quebec City
+Laval Healthcare Center 240,Quebec,Laval
+Vancouver Healthcare Center 241,British Columbia,Vancouver
+Victoria Healthcare Center 242,British Columbia,Victoria
+Surrey Healthcare Center 243,British Columbia,Surrey
+Calgary Healthcare Center 244,Alberta,Calgary
+Edmonton Healthcare Center 245,Alberta,Edmonton
+Red Deer Healthcare Center 246,Alberta,Red Deer
+Halifax Healthcare Center 247,Nova Scotia,Halifax
+Sydney Healthcare Center 248,Nova Scotia,Sydney
+Saskatoon Healthcare Center 249,Saskatchewan,Saskatoon
+Regina Healthcare Center 250,Saskatchewan,Regina
+Winnipeg Healthcare Center 251,Manitoba,Winnipeg
+Brandon Healthcare Center 252,Manitoba,Brandon
+Toronto Healthcare Center 253,Ontario,Toronto
+Ottawa Healthcare Center 254,Ontario,Ottawa
+Mississauga Healthcare Center 255,Ontario,Mississauga
+Montreal Healthcare Center 256,Quebec,Montreal
+Quebec City Healthcare Center 257,Quebec,Quebec City
+Laval Healthcare Center 258,Quebec,Laval
+Vancouver Healthcare Center 259,British Columbia,Vancouver
+Victoria Healthcare Center 260,British Columbia,Victoria
+Surrey Healthcare Center 261,British Columbia,Surrey
+Calgary Healthcare Center 262,Alberta,Calgary
+Edmonton Healthcare Center 263,Alberta,Edmonton
+Red Deer Healthcare Center 264,Alberta,Red Deer
+Halifax Healthcare Center 265,Nova Scotia,Halifax
+Sydney Healthcare Center 266,Nova Scotia,Sydney
+Saskatoon Healthcare Center 267,Saskatchewan,Saskatoon
+Regina Healthcare Center 268,Saskatchewan,Regina
+Winnipeg Healthcare Center 269,Manitoba,Winnipeg
+Brandon Healthcare Center 270,Manitoba,Brandon
+Toronto Healthcare Center 271,Ontario,Toronto
+Ottawa Healthcare Center 272,Ontario,Ottawa
+Mississauga Healthcare Center 273,Ontario,Mississauga
+Montreal Healthcare Center 274,Quebec,Montreal
+Quebec City Healthcare Center 275,Quebec,Quebec City
+Laval Healthcare Center 276,Quebec,Laval
+Vancouver Healthcare Center 277,British Columbia,Vancouver
+Victoria Healthcare Center 278,British Columbia,Victoria
+Surrey Healthcare Center 279,British Columbia,Surrey
+Calgary Healthcare Center 280,Alberta,Calgary
+Edmonton Healthcare Center 281,Alberta,Edmonton
+Red Deer Healthcare Center 282,Alberta,Red Deer
+Halifax Healthcare Center 283,Nova Scotia,Halifax
+Sydney Healthcare Center 284,Nova Scotia,Sydney
+Saskatoon Healthcare Center 285,Saskatchewan,Saskatoon
+Regina Healthcare Center 286,Saskatchewan,Regina
+Winnipeg Healthcare Center 287,Manitoba,Winnipeg
+Brandon Healthcare Center 288,Manitoba,Brandon
+Toronto Healthcare Center 289,Ontario,Toronto
+Ottawa Healthcare Center 290,Ontario,Ottawa
+Mississauga Healthcare Center 291,Ontario,Mississauga
+Montreal Healthcare Center 292,Quebec,Montreal
+Quebec City Healthcare Center 293,Quebec,Quebec City
+Laval Healthcare Center 294,Quebec,Laval
+Vancouver Healthcare Center 295,British Columbia,Vancouver
+Victoria Healthcare Center 296,British Columbia,Victoria
+Surrey Healthcare Center 297,British Columbia,Surrey
+Calgary Healthcare Center 298,Alberta,Calgary
+Edmonton Healthcare Center 299,Alberta,Edmonton
+Red Deer Healthcare Center 300,Alberta,Red Deer
+Halifax Healthcare Center 301,Nova Scotia,Halifax
+Sydney Healthcare Center 302,Nova Scotia,Sydney
+Saskatoon Healthcare Center 303,Saskatchewan,Saskatoon
+Regina Healthcare Center 304,Saskatchewan,Regina
+Winnipeg Healthcare Center 305,Manitoba,Winnipeg
+Brandon Healthcare Center 306,Manitoba,Brandon
+Toronto Healthcare Center 307,Ontario,Toronto
+Ottawa Healthcare Center 308,Ontario,Ottawa
+Mississauga Healthcare Center 309,Ontario,Mississauga
+Montreal Healthcare Center 310,Quebec,Montreal
+Quebec City Healthcare Center 311,Quebec,Quebec City
+Laval Healthcare Center 312,Quebec,Laval
+Vancouver Healthcare Center 313,British Columbia,Vancouver
+Victoria Healthcare Center 314,British Columbia,Victoria
+Surrey Healthcare Center 315,British Columbia,Surrey
+Calgary Healthcare Center 316,Alberta,Calgary
+Edmonton Healthcare Center 317,Alberta,Edmonton
+Red Deer Healthcare Center 318,Alberta,Red Deer
+Halifax Healthcare Center 319,Nova Scotia,Halifax
+Sydney Healthcare Center 320,Nova Scotia,Sydney
+Saskatoon Healthcare Center 321,Saskatchewan,Saskatoon
+Regina Healthcare Center 322,Saskatchewan,Regina
+Winnipeg Healthcare Center 323,Manitoba,Winnipeg
+Brandon Healthcare Center 324,Manitoba,Brandon
+Toronto Healthcare Center 325,Ontario,Toronto
+Ottawa Healthcare Center 326,Ontario,Ottawa
+Mississauga Healthcare Center 327,Ontario,Mississauga
+Montreal Healthcare Center 328,Quebec,Montreal
+Quebec City Healthcare Center 329,Quebec,Quebec City
+Laval Healthcare Center 330,Quebec,Laval
+Vancouver Healthcare Center 331,British Columbia,Vancouver
+Victoria Healthcare Center 332,British Columbia,Victoria
+Surrey Healthcare Center 333,British Columbia,Surrey
+Calgary Healthcare Center 334,Alberta,Calgary
+Edmonton Healthcare Center 335,Alberta,Edmonton
+Red Deer Healthcare Center 336,Alberta,Red Deer
+Halifax Healthcare Center 337,Nova Scotia,Halifax
+Sydney Healthcare Center 338,Nova Scotia,Sydney
+Saskatoon Healthcare Center 339,Saskatchewan,Saskatoon
+Regina Healthcare Center 340,Saskatchewan,Regina
+Winnipeg Healthcare Center 341,Manitoba,Winnipeg
+Brandon Healthcare Center 342,Manitoba,Brandon
+Toronto Healthcare Center 343,Ontario,Toronto
+Ottawa Healthcare Center 344,Ontario,Ottawa
+Mississauga Healthcare Center 345,Ontario,Mississauga
+Montreal Healthcare Center 346,Quebec,Montreal
+Quebec City Healthcare Center 347,Quebec,Quebec City
+Laval Healthcare Center 348,Quebec,Laval
+Vancouver Healthcare Center 349,British Columbia,Vancouver
+Victoria Healthcare Center 350,British Columbia,Victoria
+Surrey Healthcare Center 351,British Columbia,Surrey
+Calgary Healthcare Center 352,Alberta,Calgary
+Edmonton Healthcare Center 353,Alberta,Edmonton
+Red Deer Healthcare Center 354,Alberta,Red Deer
+Halifax Healthcare Center 355,Nova Scotia,Halifax
+Sydney Healthcare Center 356,Nova Scotia,Sydney
+Saskatoon Healthcare Center 357,Saskatchewan,Saskatoon
+Regina Healthcare Center 358,Saskatchewan,Regina
+Winnipeg Healthcare Center 359,Manitoba,Winnipeg
+Brandon Healthcare Center 360,Manitoba,Brandon
+Toronto Healthcare Center 361,Ontario,Toronto
+Ottawa Healthcare Center 362,Ontario,Ottawa
+Mississauga Healthcare Center 363,Ontario,Mississauga
+Montreal Healthcare Center 364,Quebec,Montreal
+Quebec City Healthcare Center 365,Quebec,Quebec City
+Laval Healthcare Center 366,Quebec,Laval
+Vancouver Healthcare Center 367,British Columbia,Vancouver
+Victoria Healthcare Center 368,British Columbia,Victoria
+Surrey Healthcare Center 369,British Columbia,Surrey
+Calgary Healthcare Center 370,Alberta,Calgary
+Edmonton Healthcare Center 371,Alberta,Edmonton
+Red Deer Healthcare Center 372,Alberta,Red Deer
+Halifax Healthcare Center 373,Nova Scotia,Halifax
+Sydney Healthcare Center 374,Nova Scotia,Sydney
+Saskatoon Healthcare Center 375,Saskatchewan,Saskatoon
+Regina Healthcare Center 376,Saskatchewan,Regina
+Winnipeg Healthcare Center 377,Manitoba,Winnipeg
+Brandon Healthcare Center 378,Manitoba,Brandon
+Toronto Healthcare Center 379,Ontario,Toronto
+Ottawa Healthcare Center 380,Ontario,Ottawa
+Mississauga Healthcare Center 381,Ontario,Mississauga
+Montreal Healthcare Center 382,Quebec,Montreal
+Quebec City Healthcare Center 383,Quebec,Quebec City
+Laval Healthcare Center 384,Quebec,Laval
+Vancouver Healthcare Center 385,British Columbia,Vancouver
+Victoria Healthcare Center 386,British Columbia,Victoria
+Surrey Healthcare Center 387,British Columbia,Surrey
+Calgary Healthcare Center 388,Alberta,Calgary
+Edmonton Healthcare Center 389,Alberta,Edmonton
+Red Deer Healthcare Center 390,Alberta,Red Deer
+Halifax Healthcare Center 391,Nova Scotia,Halifax
+Sydney Healthcare Center 392,Nova Scotia,Sydney
+Saskatoon Healthcare Center 393,Saskatchewan,Saskatoon
+Regina Healthcare Center 394,Saskatchewan,Regina
+Winnipeg Healthcare Center 395,Manitoba,Winnipeg
+Brandon Healthcare Center 396,Manitoba,Brandon
+Toronto Healthcare Center 397,Ontario,Toronto
+Ottawa Healthcare Center 398,Ontario,Ottawa
+Mississauga Healthcare Center 399,Ontario,Mississauga
+Montreal Healthcare Center 400,Quebec,Montreal
+Quebec City Healthcare Center 401,Quebec,Quebec City
+Laval Healthcare Center 402,Quebec,Laval
+Vancouver Healthcare Center 403,British Columbia,Vancouver
+Victoria Healthcare Center 404,British Columbia,Victoria
+Surrey Healthcare Center 405,British Columbia,Surrey
+Calgary Healthcare Center 406,Alberta,Calgary
+Edmonton Healthcare Center 407,Alberta,Edmonton
+Red Deer Healthcare Center 408,Alberta,Red Deer
+Halifax Healthcare Center 409,Nova Scotia,Halifax
+Sydney Healthcare Center 410,Nova Scotia,Sydney
+Saskatoon Healthcare Center 411,Saskatchewan,Saskatoon
+Regina Healthcare Center 412,Saskatchewan,Regina
+Winnipeg Healthcare Center 413,Manitoba,Winnipeg
+Brandon Healthcare Center 414,Manitoba,Brandon
+Toronto Healthcare Center 415,Ontario,Toronto
+Ottawa Healthcare Center 416,Ontario,Ottawa
+Mississauga Healthcare Center 417,Ontario,Mississauga
+Montreal Healthcare Center 418,Quebec,Montreal
+Quebec City Healthcare Center 419,Quebec,Quebec City
+Laval Healthcare Center 420,Quebec,Laval
+Vancouver Healthcare Center 421,British Columbia,Vancouver
+Victoria Healthcare Center 422,British Columbia,Victoria
+Surrey Healthcare Center 423,British Columbia,Surrey
+Calgary Healthcare Center 424,Alberta,Calgary
+Edmonton Healthcare Center 425,Alberta,Edmonton
+Red Deer Healthcare Center 426,Alberta,Red Deer
+Halifax Healthcare Center 427,Nova Scotia,Halifax
+Sydney Healthcare Center 428,Nova Scotia,Sydney
+Saskatoon Healthcare Center 429,Saskatchewan,Saskatoon
+Regina Healthcare Center 430,Saskatchewan,Regina
+Winnipeg Healthcare Center 431,Manitoba,Winnipeg
+Brandon Healthcare Center 432,Manitoba,Brandon
+Toronto Healthcare Center 433,Ontario,Toronto
+Ottawa Healthcare Center 434,Ontario,Ottawa
+Mississauga Healthcare Center 435,Ontario,Mississauga
+Montreal Healthcare Center 436,Quebec,Montreal
+Quebec City Healthcare Center 437,Quebec,Quebec City
+Laval Healthcare Center 438,Quebec,Laval
+Vancouver Healthcare Center 439,British Columbia,Vancouver
+Victoria Healthcare Center 440,British Columbia,Victoria
+Surrey Healthcare Center 441,British Columbia,Surrey
+Calgary Healthcare Center 442,Alberta,Calgary
+Edmonton Healthcare Center 443,Alberta,Edmonton
+Red Deer Healthcare Center 444,Alberta,Red Deer
+Halifax Healthcare Center 445,Nova Scotia,Halifax
+Sydney Healthcare Center 446,Nova Scotia,Sydney
+Saskatoon Healthcare Center 447,Saskatchewan,Saskatoon
+Regina Healthcare Center 448,Saskatchewan,Regina
+Winnipeg Healthcare Center 449,Manitoba,Winnipeg
+Brandon Healthcare Center 450,Manitoba,Brandon
+Toronto Healthcare Center 451,Ontario,Toronto
+Ottawa Healthcare Center 452,Ontario,Ottawa
+Mississauga Healthcare Center 453,Ontario,Mississauga
+Montreal Healthcare Center 454,Quebec,Montreal
+Quebec City Healthcare Center 455,Quebec,Quebec City
+Laval Healthcare Center 456,Quebec,Laval
+Vancouver Healthcare Center 457,British Columbia,Vancouver
+Victoria Healthcare Center 458,British Columbia,Victoria
+Surrey Healthcare Center 459,British Columbia,Surrey
+Calgary Healthcare Center 460,Alberta,Calgary
+Edmonton Healthcare Center 461,Alberta,Edmonton
+Red Deer Healthcare Center 462,Alberta,Red Deer
+Halifax Healthcare Center 463,Nova Scotia,Halifax
+Sydney Healthcare Center 464,Nova Scotia,Sydney
+Saskatoon Healthcare Center 465,Saskatchewan,Saskatoon
+Regina Healthcare Center 466,Saskatchewan,Regina
+Winnipeg Healthcare Center 467,Manitoba,Winnipeg
+Brandon Healthcare Center 468,Manitoba,Brandon
+Toronto Healthcare Center 469,Ontario,Toronto
+Ottawa Healthcare Center 470,Ontario,Ottawa
+Mississauga Healthcare Center 471,Ontario,Mississauga
+Montreal Healthcare Center 472,Quebec,Montreal
+Quebec City Healthcare Center 473,Quebec,Quebec City
+Laval Healthcare Center 474,Quebec,Laval
+Vancouver Healthcare Center 475,British Columbia,Vancouver
